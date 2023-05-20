@@ -1,3 +1,8 @@
+interface User {
+  name: string;
+  age: number;
+}
+
 const user = {
   name: "Alex",
   age: 24,
